@@ -1,0 +1,24 @@
+{
+  "name": "catucag-final",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r  # Activity 1\r -Web Dev't Boilerplate using Express\r +Web Dev't Boilerplate Setup using Express",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allendavecatucag/webdevfinal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allendavecatucag/webdevfinal/issues"
+  },
+  "homepage": "https://github.com/Allendavecatucag/webdevfinal#readme"
+}
